@@ -1,0 +1,25 @@
+2014-11-09 15:11:07,275 | INFO | (OperationProcessor.java:78) | Found port: COM3
+2014-11-09 15:11:07,284 | INFO | (OperationProcessor.java:82) | COM3 is a serial port. Added.
+2014-11-09 15:11:07,284 | INFO | (OperationProcessor.java:78) | Found port: COM5
+2014-11-09 15:11:07,284 | INFO | (OperationProcessor.java:82) | COM5 is a serial port. Added.
+2014-11-09 15:11:11,787 | TRACE | (MainGUI.java:233) | [C]: mntmConnect
+2014-11-09 15:11:11,852 | INFO | (OperationProcessor.java:78) | Found port: COM3
+2014-11-09 15:11:11,852 | INFO | (OperationProcessor.java:82) | COM3 is a serial port. Added.
+2014-11-09 15:11:11,853 | INFO | (OperationProcessor.java:78) | Found port: COM5
+2014-11-09 15:11:11,853 | INFO | (OperationProcessor.java:82) | COM5 is a serial port. Added.
+2014-11-09 15:11:14,267 | INFO | (OperationProcessor.java:89) | Connecting to COM5
+2014-11-09 15:11:14,290 | INFO | (OperationProcessor.java:99) | Successfully connected to //./COM5
+2014-11-09 15:11:14,291 | INFO | (OperationProcessor.java:111) | Opening IOStream.
+2014-11-09 15:11:14,291 | INFO | (OperationProcessor.java:117) | IOStream successfully opened.
+2014-11-09 15:11:14,292 | INFO | (OperationProcessor.java:128) | Initializing listener.
+2014-11-09 15:11:20,311 | INFO | (OperationProcessor.java:208) | Sent: Sr001l000e0E
+2014-11-09 15:11:20,351 | INFO | (OperationProcessor.java:168) | Received: Sr64407l4407t4407e0E
+2014-11-09 15:12:20,398 | INFO | (OperationProcessor.java:168) | Received: Sr64407l4407t64408e0E
+2014-11-09 15:20:39,965 | INFO | (OperationProcessor.java:208) | Sent: Sr001l000e0E
+2014-11-09 15:20:40,020 | INFO | (OperationProcessor.java:168) | Received: Sr623673l563673t563674e0E
+2014-11-09 15:21:40,053 | INFO | (OperationProcessor.java:168) | Received: Sr623673l563673t623674e0E
+2014-11-09 15:21:51,069 | INFO | (OperationProcessor.java:208) | Sent: Sr001l000e0E
+2014-11-09 15:21:51,119 | INFO | (OperationProcessor.java:168) | Received: Sr694727l634727t634728e0E
+2014-11-09 15:22:00,141 | INFO | (OperationProcessor.java:211) | Relays stopped by user!
+2014-11-09 15:22:00,188 | INFO | (OperationProcessor.java:168) | Received: Sr694727l634727t643792e1E
+2014-11-09 15:22:00,189 | INFO | (OperationProcessor.java:175) | Received a message with an error from //./COM5

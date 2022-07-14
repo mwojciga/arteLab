@@ -1,0 +1,20 @@
+2016-03-31 22:08:27,659 | INFO | (OperationProcessor.java:215) | Could not write data: java.lang.NullPointerException
+2016-03-31 22:08:45,136 | INFO | (OperationProcessor.java:215) | Could not write data: java.lang.NullPointerException
+2016-03-31 22:08:46,040 | INFO | (OperationProcessor.java:215) | Could not write data: java.lang.NullPointerException
+2016-03-31 22:08:46,329 | INFO | (OperationProcessor.java:215) | Could not write data: java.lang.NullPointerException
+2016-03-31 22:08:46,562 | INFO | (OperationProcessor.java:215) | Could not write data: java.lang.NullPointerException
+2016-03-31 22:08:46,777 | INFO | (OperationProcessor.java:215) | Could not write data: java.lang.NullPointerException
+2016-03-31 22:08:47,025 | INFO | (OperationProcessor.java:215) | Could not write data: java.lang.NullPointerException
+2016-03-31 22:09:55,907 | TRACE | (MainGUI.java:233) | [C]: mntmConnect
+2016-03-31 22:14:12,358 | TRACE | (MainGUI.java:233) | [C]: mntmConnect
+2016-03-31 22:15:40,781 | INFO | (OperationProcessor.java:78) | Found port: COM7
+2016-03-31 22:15:40,783 | INFO | (OperationProcessor.java:82) | COM7 is a serial port. Added.
+2016-03-31 22:15:43,653 | TRACE | (MainGUI.java:233) | [C]: mntmConnect
+2016-03-31 22:15:43,663 | INFO | (OperationProcessor.java:78) | Found port: COM7
+2016-03-31 22:15:43,664 | INFO | (OperationProcessor.java:82) | COM7 is a serial port. Added.
+2016-03-31 22:15:45,446 | INFO | (OperationProcessor.java:89) | Connecting to COM7
+2016-03-31 22:15:45,504 | INFO | (OperationProcessor.java:99) | Successfully connected to //./COM7
+2016-03-31 22:15:45,504 | INFO | (OperationProcessor.java:111) | Opening IOStream.
+2016-03-31 22:15:45,505 | INFO | (OperationProcessor.java:117) | IOStream successfully opened.
+2016-03-31 22:15:45,505 | INFO | (OperationProcessor.java:128) | Initializing listener.
+2016-03-31 22:15:49,428 | INFO | (OperationProcessor.java:208) | Sent: Sr001l000e0E

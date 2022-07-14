@@ -1,0 +1,48 @@
+2016-04-17 21:48:04,175 | INFO | (OperationProcessor.java:78) | Found port: COM7
+2016-04-17 21:48:04,187 | INFO | (OperationProcessor.java:82) | COM7 is a serial port. Added.
+2016-04-17 22:10:58,517 | TRACE | (MainGUI.java:233) | [C]: mntmConnect
+2016-04-17 22:10:58,521 | INFO | (OperationProcessor.java:78) | Found port: COM7
+2016-04-17 22:10:58,522 | INFO | (OperationProcessor.java:82) | COM7 is a serial port. Added.
+2016-04-17 22:10:59,662 | INFO | (OperationProcessor.java:89) | Connecting to COM7
+2016-04-17 22:10:59,711 | INFO | (OperationProcessor.java:99) | Successfully connected to //./COM7
+2016-04-17 22:10:59,711 | INFO | (OperationProcessor.java:111) | Opening IOStream.
+2016-04-17 22:10:59,711 | INFO | (OperationProcessor.java:117) | IOStream successfully opened.
+2016-04-17 22:10:59,712 | INFO | (OperationProcessor.java:128) | Initializing listener.
+2016-04-17 22:11:36,085 | INFO | (OperationProcessor.java:208) | Sent: Sr001l000e0E
+2016-04-17 22:11:36,125 | INFO | (OperationProcessor.java:168) | Received: Sr94833l34833t34833e0E
+2016-04-17 22:12:36,167 | INFO | (OperationProcessor.java:168) | Received: Sr94833l34833t94834e0E
+2016-04-17 22:12:46,194 | INFO | (OperationProcessor.java:208) | Sent: Sr001l000e0E
+2016-04-17 22:12:46,235 | INFO | (OperationProcessor.java:168) | Received: Sr164907l104907t104907e0E
+2016-04-17 22:12:47,138 | INFO | (OperationProcessor.java:211) | Relays stopped by user!
+2016-04-17 22:12:47,193 | INFO | (OperationProcessor.java:168) | Received: Sr164907l104907t105850e1E
+2016-04-17 22:12:47,193 | INFO | (OperationProcessor.java:175) | Received a message with an error from //./COM7
+2016-04-17 22:12:48,330 | INFO | (OperationProcessor.java:208) | Sent: Sr001l000e0E
+2016-04-17 22:12:48,385 | INFO | (OperationProcessor.java:168) | Received: Sr167042l107042t107043e0E
+2016-04-17 22:12:49,066 | INFO | (OperationProcessor.java:211) | Relays stopped by user!
+2016-04-17 22:12:49,106 | INFO | (OperationProcessor.java:168) | Received: Sr167042l107042t107779e1E
+2016-04-17 22:12:49,106 | INFO | (OperationProcessor.java:175) | Received a message with an error from //./COM7
+2016-04-17 22:12:49,874 | INFO | (OperationProcessor.java:208) | Sent: Sr001l000e0E
+2016-04-17 22:12:49,917 | INFO | (OperationProcessor.java:168) | Received: Sr168585l108585t108585e0E
+2016-04-17 22:12:51,490 | INFO | (OperationProcessor.java:211) | Relays stopped by user!
+2016-04-17 22:12:51,534 | INFO | (OperationProcessor.java:168) | Received: Sr168585l108585t110200e1E
+2016-04-17 22:12:51,534 | INFO | (OperationProcessor.java:175) | Received a message with an error from //./COM7
+2016-04-17 22:12:52,026 | INFO | (OperationProcessor.java:208) | Sent: Sr001l000e0E
+2016-04-17 22:12:52,075 | INFO | (OperationProcessor.java:168) | Received: Sr170736l110736t110737e0E
+2016-04-17 22:12:53,482 | INFO | (OperationProcessor.java:211) | Relays stopped by user!
+2016-04-17 22:12:53,537 | INFO | (OperationProcessor.java:168) | Received: Sr170736l110736t112192e1E
+2016-04-17 22:12:53,537 | INFO | (OperationProcessor.java:175) | Received a message with an error from //./COM7
+2016-04-17 22:12:57,377 | TRACE | (MainGUI.java:220) | [C]: mntmDisconnect
+2016-04-17 22:12:57,384 | INFO | (OperationProcessor.java:141) | Disconnected from //./COM7
+2016-04-17 22:12:57,384 | INFO | (OperationProcessor.java:146) | IOStream closed.
+2016-04-17 23:58:49,726 | INFO | (OperationProcessor.java:78) | Found port: COM7
+2016-04-17 23:58:49,731 | INFO | (OperationProcessor.java:82) | COM7 is a serial port. Added.
+2016-04-17 23:58:52,371 | TRACE | (MainGUI.java:233) | [C]: mntmConnect
+2016-04-17 23:58:52,374 | INFO | (OperationProcessor.java:78) | Found port: COM7
+2016-04-17 23:58:52,374 | INFO | (OperationProcessor.java:82) | COM7 is a serial port. Added.
+2016-04-17 23:58:53,285 | INFO | (OperationProcessor.java:89) | Connecting to COM7
+2016-04-17 23:58:53,329 | INFO | (OperationProcessor.java:99) | Successfully connected to //./COM7
+2016-04-17 23:58:53,329 | INFO | (OperationProcessor.java:111) | Opening IOStream.
+2016-04-17 23:58:53,329 | INFO | (OperationProcessor.java:117) | IOStream successfully opened.
+2016-04-17 23:58:53,330 | INFO | (OperationProcessor.java:128) | Initializing listener.
+2016-04-17 23:59:01,115 | INFO | (OperationProcessor.java:208) | Sent: Sr001l000e0E
+2016-04-17 23:59:01,166 | INFO | (OperationProcessor.java:168) | Received: Sr66255l6255t6255e0E
